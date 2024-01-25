@@ -126,7 +126,7 @@ main {
 
 .texto-resultado::placeholder {
     height: 420px;
-    background: url(/img/sem-mensagem.png);
+    background: url(sem-mensagem.png);
     background-repeat: no-repeat;
     background-position: center;
     color: var(--dark-blue-400);
